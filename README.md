@@ -1,5 +1,5 @@
 # sml
-Examples of statistical machine learning: Linear Discriminant Analysis; Quadratic Discriminant Analysis; Basis Method; Smoothing Splines; Bayesian Method, Bootstrapping, Cross Validation, and Regression Tree.
+Examples of statistical machine learning.
 
 spline_bayes: Use various methods to analyze bone mineral density data. 1. Smoothing splines; 2. Bayesian method. Bootstrapping and cross validation techniques are also applied.
 
