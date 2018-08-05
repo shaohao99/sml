@@ -1,3 +1,5 @@
+# Copyright: Shaohao Chen, Research Computing Services, Boston University. 2018
+
 import numpy as np
 from sklearn.tree import DecisionTreeRegressor
 
