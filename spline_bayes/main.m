@@ -1,3 +1,5 @@
+% Copyright: Shaohao Chen, Research Computing Services, Boston University. 2018
+
 % main function
 clear all
 format long
